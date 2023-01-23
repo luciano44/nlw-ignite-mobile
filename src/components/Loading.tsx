@@ -10,7 +10,7 @@ export default function Loading() {
         backgroundColor: "#09090A",
       }}
     >
-      <ActivityIndicator color="#7C3AED" />
+      <ActivityIndicator color="#7C3AED" size={40} />
     </View>
   );
 }
